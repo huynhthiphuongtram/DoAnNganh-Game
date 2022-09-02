@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/03.Niels Prayer - Magical_undergrowth.mp3-db83c6b8f788d9ae74bb30786d76c01c.mp3str"
+
+[deps]
+
+source_file="res://Background resources 12-8-2022/03.Niels Prayer - Magical_undergrowth.mp3"
+dest_files=[ "res://.import/03.Niels Prayer - Magical_undergrowth.mp3-db83c6b8f788d9ae74bb30786d76c01c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
