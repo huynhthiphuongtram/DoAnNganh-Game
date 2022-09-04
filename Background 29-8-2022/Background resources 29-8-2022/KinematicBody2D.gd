@@ -28,9 +28,12 @@ func _physics_process(delta):
 	#Attack
 	elif Input.is_action_pressed("ui_attack_buttonX"):
 		animationPlayer.play("FightingOnRight")
+		#$AttackRightArea/CollisionShape2D.disabled = false
+		
 	elif Input.is_action_pressed("ui_attack_buttonZ"):
 		animationPlayer.play("FightingOnLeft")
-	
+		#$AttackLeftArea/CollisionShape2D.disabled = false
+			
 	#NotMoving
 	else:
 		velocity.x = 0
@@ -40,4 +43,3 @@ func _physics_process(delta):
 	
 func _on_FallArea_body_entered(body):
 	get_tree().change_scene("res://Background resources 29-8-2022/Scene2.tscn")
-
