@@ -1,0 +1,59 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello, we meet again. Looks like you've adapted to your new outfit."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The mission this time is simply to collect the coins in this cave."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But be careful, there are many strange and dangerous creatures here."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You can defeat them to make the mission easier, but if you are attacked then there is that danger."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good luck :D"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.4",
+		"file": "timeline-1664207548.json",
+		"name": "timeline-2"
+	}
+}

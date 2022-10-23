@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1660486956.json",
+	"mirror_portraits": false,
+	"name": "Co-B",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 190,
+	"offset_y": -100,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://sprites/zplayer3/platformChar_idle.png"
+		}
+	],
+	"scale": 200,
+	"theme": "default-theme.cfg"
+}

@@ -1,0 +1,65 @@
+{
+	"events": [
+		{
+			"animation": "1-fade_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello, now you are currently in the Navia cave and the environment in it is very harsh."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "If you are not careful, you will be corrosive and life-threatening by the environment here."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That's why I've equipped you with this environment-resistant suit."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Your mission here is move the 2 boxes back to the original position."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "During the quest, you will discover some coins in the cave. You can collect them to use."
+		},
+		{
+			"character": "character-1660486956.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good luck!!!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.4",
+		"file": "timeline-1660486997.json",
+		"name": "timeline-1"
+	}
+}
