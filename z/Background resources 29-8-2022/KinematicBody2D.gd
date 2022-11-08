@@ -41,6 +41,22 @@ func _process(delta):
 		attack_status = true
 		$AttackLeftArea/CollisionShape2D.disabled = false
 		
+	#Attack
+	#elif Input.is_action_pressed("ui_attack_buttonX"):
+		#animationPlayer.play("AttackRight")
+		#attack_status = true
+		#$AttackRightArea/CollisionShape2D.disabled = false
+		
+	#elif Input.is_action_pressed("ui_attack_buttonZ"):
+		#animationPlayer.play("AttackLeft")
+		#attack_status = true
+		#$AttackLeftArea/CollisionShape2D.disabled = false
+			
+	#NotMoving
+	#else:
+		#velocity.x = 0
+		#animationPlayer.stop()
+	
 	move_and_collide(velocity)
 	
 func _on_FallArea_body_entered(body):
